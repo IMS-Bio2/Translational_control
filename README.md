@@ -2,7 +2,7 @@
 
 # A workbench for the translational control of gene expression
 
-This repository contains the codes (in R and Python) used to compare the ORF-specific Ribo-seq profiles coming from different datasets and to assess the reproducibility of them.
+This repository contains the codes used to compare the ORF-specific Ribo-seq profiles coming from different datasets and to assess the reproducibility of them.
 
 Our analysis of the ORF-specific Ribo-seq profiles consist of two phases:
 
